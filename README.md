@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🛡️ 1+ year of experience in **Web Application Security**, **Penetration Testing**, and **Vulnerability Assessment**  
+- 🛡️ 2+ year of experience in **Web Application Security**, **Penetration Testing**, and **Vulnerability Assessment**  
 - 🕵️‍♂️ Hands-on with **OWASP Top 10**, **Burp Suite**, **ZAP**, and **Metasploit**
 - 🧪 Built a personal **Web Pentest Lab** using DVWA, Juice Shop, and WebGoat  
 - 📚 Preparing for **CompTIA Security+ (SY0-701)**  
